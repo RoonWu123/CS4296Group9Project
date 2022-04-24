@@ -23,8 +23,8 @@ For train-cat-rabbit and val-cat-rabbit, create 2 directories named "cat" and "r
 The overall structure will be like: <br>
 root/<br>
 ├─ CatRabbit<br>
-│  ├─ test-images<br>
-│  ├─ train-cat-rabbit<br>
+│&nbsp;&nbsp;├─ test-images<br>
+│&nbsp;&nbsp;├─ train-cat-rabbit<br>
 │  │     ├─ cat<br>
 │  │     └─ rabbit<br>
 │  └─ val-cat-rabbit<br>
