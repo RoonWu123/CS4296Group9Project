@@ -10,6 +10,7 @@ The dataset and the source codes （both Google Colab and Sagemaker） can be fo
 https://drive.google.com/drive/folders/14LKnmDwWf1rxjUwgH--nPMgwAXOBhadR
 
 <br>
+<br>
 
 # Software/hardware dependencies
 
@@ -20,6 +21,8 @@ For software dependencies, we need to invoke the kernel with TensorFlow module. 
 However, for Sagemaker Notebook, it is required to select the kernel manually in the kernel Selection Page after launching the notebook instance.<br>
 ![image](https://user-images.githubusercontent.com/79595031/164978895-5faa8e35-8bd1-42fe-8789-976b5da7b580.png)
 
+<br>
+<br>
 
 # Instruction on the AWS SageMaker
 <br>
@@ -47,18 +50,19 @@ root/<br>
 Then unzip the file on you own local machine and upload the content (images) to directories respectively<br>
 The notebook, containing the source code, can now be uploadede to the sagemaker<br>
 The data source path may change due to the modification of directories locations<br>
-
 ![image](https://user-images.githubusercontent.com/79595031/164978168-fac05a3c-1507-4ed9-97bf-7e90b1fda967.png)
-<br>
+
 After the set up, the environment should be looked like this:<br>
 ![image](https://user-images.githubusercontent.com/79595031/164979162-ff2da8bb-4eff-455e-adeb-0cfc95cfb164.png)
 
-<br>In the data source file: <br>
+In the data source file: <br>
 ![image](https://user-images.githubusercontent.com/79595031/164979198-c4ba25d6-c80c-4e21-9c92-20f62282a2ba.png)
 
-<br>Both the train-cat-rabbit and val-cat-rabbit directories will contain the following sub-directories<br>
+Both the train-cat-rabbit and val-cat-rabbit directories will contain the following sub-directories<br>
 ![image](https://user-images.githubusercontent.com/79595031/164979261-0603d5df-dbfb-4115-bb0a-35e051f0ca9d.png)
 
+<br>
+<br>
 
 # Instruction on the Google Colab
 <br>
