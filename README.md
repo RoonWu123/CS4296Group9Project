@@ -74,14 +74,16 @@ Download the dataset "CatRabbit.zip" and unzip the content in the zip file and u
 <br>
 Then launch a Google Colab Notebook (default with TensorFlow module)<br>
 <br>
-Mount the google drive after enter the Colab environment<br>
+Mount the google drive after enter the Colab environment
+<br>
 ![image](https://user-images.githubusercontent.com/79595031/164977802-7c5186cb-897a-4f8e-a449-cf74ce587447.png)
 
 <br>
 Verify the data Source is usable on the Google Drive.<br>
 Change the path according to your google drive setting. <br>
 The dataset need to be downloaded and mounted from google drive first <br>
-After mounting, the dataset file should be something like: <br> "/content/drive/(the path of dataset on your google drive path)"<br>
+After mounting, the dataset file should be something like: <br> "/content/drive/(the path of dataset on your google drive path)"
+<br>
 ![image](https://user-images.githubusercontent.com/79595031/164979618-5ac278b5-585b-4fe3-ae88-09dbbfa768c5.png)
 
 <br>
