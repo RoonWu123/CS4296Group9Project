@@ -50,17 +50,22 @@ root/<br>
 Then unzip the file on you own local machine and upload the content (images) to directories respectively<br>
 The notebook, containing the source code, can now be uploadede to the sagemaker<br>
 The data source path may change due to the modification of directories locations<br>
+
 ![image](https://user-images.githubusercontent.com/79595031/164978168-fac05a3c-1507-4ed9-97bf-7e90b1fda967.png)
 
 After the set up, the environment should be looked like this:<br>
+
 ![image](https://user-images.githubusercontent.com/79595031/164979162-ff2da8bb-4eff-455e-adeb-0cfc95cfb164.png)
 
 In the data source file: <br>
+
 ![image](https://user-images.githubusercontent.com/79595031/164979198-c4ba25d6-c80c-4e21-9c92-20f62282a2ba.png)
 
 Both the train-cat-rabbit and val-cat-rabbit directories will contain the following sub-directories. The sub-directories will contain the images<br>
+
 ![image](https://user-images.githubusercontent.com/79595031/164979261-0603d5df-dbfb-4115-bb0a-35e051f0ca9d.png)
 <br>
+
 ![image](https://user-images.githubusercontent.com/79595031/164979450-11b79bd8-305f-40f6-a948-f801c19bd016.png)
 
 <br>
@@ -75,6 +80,7 @@ Download the dataset "CatRabbit.zip" and unzip the content in the zip file and u
 Then launch a Google Colab Notebook (default with TensorFlow module)<br>
 <br>
 Mount the google drive after enter the Colab environment<br>
+
 ![image](https://user-images.githubusercontent.com/79595031/164980192-5df79de3-2eab-410a-aac0-0b8257bb7439.png)
 
 
@@ -83,6 +89,7 @@ Verify the data Source is usable on the Google Drive.<br>
 Change the path according to your google drive setting. <br>
 The dataset need to be downloaded and mounted from google drive first <br>
 After mounting, the dataset file should be something like: <br> "/content/drive/(the path of dataset on your google drive path)"<br>
+
 ![image](https://user-images.githubusercontent.com/79595031/164980202-cc205e73-1a5c-40df-8dcd-a13c270e1dac.png)
 
 
@@ -94,6 +101,7 @@ After mounting, the dataset file should be something like: <br> "/content/drive/
 <br>
 Both source code contain the same logic. The only differences betwee those source code are the part of data importing. <br>
 The functionality of the parameters are also attached to the source code markdown, so as the common possible options of parameters setting.<br>
+
 ![image](https://user-images.githubusercontent.com/79595031/164979930-e95b020a-6c91-4ccd-8ccc-3f0a3b338bfc.png)
 
 The parameters can be modified in real time before running the code. Therefore, there will not be any parameter explanation in this readme. Please refer to the source code itself.<br>
@@ -101,4 +109,10 @@ The parameters can be modified in real time before running the code. Therefore, 
 <br>
 <br>
 
-# 
+# Results and Evaluation
+<br>
+In the end of each test tun, the source code 
+
+![image](https://user-images.githubusercontent.com/79595031/164980391-c1bf349f-349d-4a94-b454-506d7e2fb7e4.png)
+
+
