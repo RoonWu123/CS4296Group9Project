@@ -75,7 +75,6 @@ Download the dataset "CatRabbit.zip" and unzip the content in the zip file and u
 Then launch a Google Colab Notebook (default with TensorFlow module)<br>
 <br>
 Mount the google drive after enter the Colab environment
-<br>
 ![image](https://user-images.githubusercontent.com/79595031/164977802-7c5186cb-897a-4f8e-a449-cf74ce587447.png)
 
 <br>
@@ -83,7 +82,6 @@ Verify the data Source is usable on the Google Drive.<br>
 Change the path according to your google drive setting. <br>
 The dataset need to be downloaded and mounted from google drive first <br>
 After mounting, the dataset file should be something like: <br> "/content/drive/(the path of dataset on your google drive path)"
-<br>
 ![image](https://user-images.githubusercontent.com/79595031/164979618-5ac278b5-585b-4fe3-ae88-09dbbfa768c5.png)
 
 <br>
@@ -93,7 +91,7 @@ After mounting, the dataset file should be something like: <br> "/content/drive/
 # Parameters of notebook in both platforms
 <br>
 Both source code contain the same logic. The only differences betwee those source code are the part of data importing. <br>
-The functionality of the parameters are also attached to the source code markdown, so as the common possible options of parameters setting.<br>
+The functionality of the parameters are also attached to the source code markdown, so as the common possible options of parameters setting.
 ![image](https://user-images.githubusercontent.com/79595031/164979930-e95b020a-6c91-4ccd-8ccc-3f0a3b338bfc.png)
 
 The parameters can be modified in real time before running the code. Therefore, there will not be any parameter explanation in this readme. Please refer to the source code itself.<br>
