@@ -1,4 +1,4 @@
-# CS4296GrpProject
+# CS4296 Group 9 Project
 
 This is the source code for Convolutional neural networks in CS4296 Group 9 Project. Both tested and worked on Amazon Sagemaker and Google Colab Environment. <br>
 <br>
