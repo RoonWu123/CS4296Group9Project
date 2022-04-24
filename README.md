@@ -24,7 +24,7 @@ However, for Sagemaker Notebook, it is required to select the kernel manually in
 <br>
 <br>
 
-# Instruction on the AWS SageMaker
+# Environment Set up on the AWS SageMaker
 <br>
 Please head to the https://drive.google.com/drive/folders/14LKnmDwWf1rxjUwgH--nPMgwAXOBhadR?usp=sharing
 <br>Download the dataset "CatRabbit.zip"<br>
@@ -60,12 +60,13 @@ In the data source file: <br>
 
 Both the train-cat-rabbit and val-cat-rabbit directories will contain the following sub-directories. The sub-directories will contain the images<br>
 ![image](https://user-images.githubusercontent.com/79595031/164979261-0603d5df-dbfb-4115-bb0a-35e051f0ca9d.png)
+<br>
 ![image](https://user-images.githubusercontent.com/79595031/164979450-11b79bd8-305f-40f6-a948-f801c19bd016.png)
 
 <br>
 <br>
 
-# Instruction on the Google Colab
+# Environmrnt Set up on the Google Colab
 <br>
 Please head to the https://drive.google.com/drive/folders/14LKnmDwWf1rxjUwgH--nPMgwAXOBhadR?usp=sharing
 <br>
@@ -81,3 +82,21 @@ Verify the data Source is usable on the Google Drive.<br>
 Change the path according to your google drive setting. <br>
 The dataset need to be downloaded and mounted from google drive first <br>
 After mounting, the dataset file should be something like: <br> "/content/drive/(the path of dataset on your google drive path)" <br>
+![image](https://user-images.githubusercontent.com/79595031/164979618-5ac278b5-585b-4fe3-ae88-09dbbfa768c5.png)
+
+<br>
+<br>
+
+
+# Parameters of notebook in both platforms
+<br>
+Both source code contain the same logic. The only differences betwee those source code are the part of data importing. <br>
+The functionality of the parameters are also attached to the source code markdown, so as the common possible options of parameters setting.<br>
+![image](https://user-images.githubusercontent.com/79595031/164979930-e95b020a-6c91-4ccd-8ccc-3f0a3b338bfc.png)
+
+The parameters can be modified in real time before running the code. Therefore, there will not be any parameter explanation in this readme. Please refer to the source code itself.<br>
+
+<br>
+<br>
+
+# 
