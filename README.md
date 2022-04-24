@@ -111,8 +111,21 @@ The parameters can be modified in real time before running the code. Therefore, 
 
 # Results and Evaluation
 <br>
-In the end of each test tun, the statistic of each experiment will be printed out in the following format.
+In the end of each test tun, the statistic of each experiment will be printed out in the following format. The duration for training each epoch, the loss (the residual between the actual value and the estimated value), the training set accuracy, the validation loss and the validation accuracy will be printed out.
+The following is the example output:<br>
 
 ![image](https://user-images.githubusercontent.com/79595031/164980391-c1bf349f-349d-4a94-b454-506d7e2fb7e4.png)
 
+The last line will also show the total time required for training the CNN model
 
+<br>
+<br>
+
+# Prediction
+<br>
+Although we have prepared the dataset for testing, you are free to upload any rabbit or cat image to test out the code too.<br>
+The model will read the images (only in jpg format) in the "test-images" directory and predict the animal inside the image.<br>
+As this part simulate the real world situation, we will not provide any label to the image itself so there will not be any statistic for this part.<br>
+This is an example output: <br>
+
+![image](https://user-images.githubusercontent.com/79595031/164983134-3fa4eaac-e461-434c-946c-ac35bd338aac.png)
