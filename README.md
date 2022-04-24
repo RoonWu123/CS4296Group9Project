@@ -4,14 +4,20 @@ This is the source code for Convolutional neural networks in CS4296 Group 9 Proj
 <br>
 The Github Link: <br>
 https://github.com/RoonWu123/CS4296Group9Project
+
 <br>
 The dataset and the source codes （both Google Colab and Sagemaker） can be found on the following link: <br>
 https://drive.google.com/drive/folders/14LKnmDwWf1rxjUwgH--nPMgwAXOBhadR
+
 <br>
 
 # Software/hardware dependencies
 
-For both source code, there is no hardware dependencies as both platforms will prepare the <u><b>basic</b></u> hardware. However, our project has invoked different instances on the
+For both source code, there is no special hardware dependencies as both platforms in free tier will prepare the <u>basic</u> hardware. <br>
+However, our project has invoked different instances (AWS) and plans (Colab) to review the performance of two different platforms, so the paid tier will have different hardware supplied. <br>
+
+For software dependencies, we need to invoke the kernel with TensorFlow module. Each Colab notebook that Google provided will contain the TensorFlow module by default.<br>
+However, for 
 
 # Instruction on the AWS SageMaker
 <br>
