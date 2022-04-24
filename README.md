@@ -33,7 +33,8 @@ root/<br>
 └─&nbsp;CatRabbitCode.ipynb<br>
 <br>
 Then unzip the file on you own local machine and upload the content (images) to directories respectively<br>
-<br>
+
+
 # Instruction on the Google Colab
 <br>
 Please head to the https://drive.google.com/drive/folders/14LKnmDwWf1rxjUwgH--nPMgwAXOBhadR?usp=sharing
