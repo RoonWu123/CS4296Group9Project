@@ -111,7 +111,7 @@ The parameters can be modified in real time before running the code. Therefore, 
 
 # Results and Evaluation
 <br>
-In the end of each test tun, the source code 
+In the end of each test tun, the statistic of each experiment will be printed out in the following format.
 
 ![image](https://user-images.githubusercontent.com/79595031/164980391-c1bf349f-349d-4a94-b454-506d7e2fb7e4.png)
 
