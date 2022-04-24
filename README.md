@@ -43,6 +43,6 @@ Download the dataset "CatRabbit.zip" and unzip the content in the zip file and u
 
 Then launch a Google Colab Notebook (default with TensorFlow module)
 
-Mount the google drive after enter the Colab environment
+Mount the google drive after enter the Colab environment<br>
 ![image](https://user-images.githubusercontent.com/79595031/164977802-7c5186cb-897a-4f8e-a449-cf74ce587447.png)
 
