@@ -58,8 +58,9 @@ After the set up, the environment should be looked like this:<br>
 In the data source file: <br>
 ![image](https://user-images.githubusercontent.com/79595031/164979198-c4ba25d6-c80c-4e21-9c92-20f62282a2ba.png)
 
-Both the train-cat-rabbit and val-cat-rabbit directories will contain the following sub-directories<br>
+Both the train-cat-rabbit and val-cat-rabbit directories will contain the following sub-directories. The sub-directories will contain the images<br>
 ![image](https://user-images.githubusercontent.com/79595031/164979261-0603d5df-dbfb-4115-bb0a-35e051f0ca9d.png)
+![image](https://user-images.githubusercontent.com/79595031/164979450-11b79bd8-305f-40f6-a948-f801c19bd016.png)
 
 <br>
 <br>
