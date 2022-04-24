@@ -8,6 +8,11 @@ https://github.com/RoonWu123/CS4296Group9Project
 The dataset and the source codes （both Google Colab and Sagemaker） can be found on the following link: <br>
 https://drive.google.com/drive/folders/14LKnmDwWf1rxjUwgH--nPMgwAXOBhadR
 <br>
+
+# Software/hardware dependencies
+
+For both source code, there is no hardware dependencies as both platforms will prepare the <u><b>basic</b></u> hardware. However, our project has invoked different instances on the
+
 # Instruction on the AWS SageMaker
 <br>
 Please head to the https://drive.google.com/drive/folders/14LKnmDwWf1rxjUwgH--nPMgwAXOBhadR?usp=sharing
@@ -33,7 +38,9 @@ root/<br>
 └─&nbsp;CatRabbitCode.ipynb<br>
 <br>
 Then unzip the file on you own local machine and upload the content (images) to directories respectively<br>
-
+The notebook, containing the source code, can now be uploadede to the sagemaker<br>
+The data source path may change due to the modification of directories locations
+![image](https://user-images.githubusercontent.com/79595031/164978168-fac05a3c-1507-4ed9-97bf-7e90b1fda967.png)
 
 # Instruction on the Google Colab
 <br>
