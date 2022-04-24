@@ -101,6 +101,7 @@ After mounting, the dataset file should be something like: <br> "/content/drive/
 <br>
 Both source code contain the same logic. The only differences betwee those source code are the part of data importing. <br>
 The functionality of the parameters are also attached to the source code markdown, so as the common possible options of parameters setting.<br>
+The following is an example:
 
 ![image](https://user-images.githubusercontent.com/79595031/164979930-e95b020a-6c91-4ccd-8ccc-3f0a3b338bfc.png)
 
