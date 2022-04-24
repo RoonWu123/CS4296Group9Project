@@ -125,7 +125,8 @@ The last line will also show the total time required for training the CNN model
 <br>
 Although we have prepared the dataset for testing, you are free to upload any rabbit or cat image to test out the code too.<br>
 The model will read the images (only in jpg format) in the "test-images" directory and predict the animal inside the image.<br>
-As this part simulate the real world situation, we will not provide any label to the image itself so there will not be any statistic for this part.<br>
+As this part simulate the real world situation, we will not provide any label to the image itself so there will only be one statistic as reference here, unlike previour section for Prediction.<br>
+The only statistic involved here is the time required to predict.<br>
 This is an example output: <br>
 
 ![image](https://user-images.githubusercontent.com/79595031/164983134-3fa4eaac-e461-434c-946c-ac35bd338aac.png)
