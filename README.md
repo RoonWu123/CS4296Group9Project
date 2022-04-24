@@ -81,7 +81,7 @@ Mount the google drive after enter the Colab environment<br>
 Verify the data Source is usable on the Google Drive.<br>
 Change the path according to your google drive setting. <br>
 The dataset need to be downloaded and mounted from google drive first <br>
-After mounting, the dataset file should be something like: <br> "/content/drive/(the path of dataset on your google drive path)" <br>
+After mounting, the dataset file should be something like: <br> "/content/drive/(the path of dataset on your google drive path)"<br>
 ![image](https://user-images.githubusercontent.com/79595031/164979618-5ac278b5-585b-4fe3-ae88-09dbbfa768c5.png)
 
 <br>
