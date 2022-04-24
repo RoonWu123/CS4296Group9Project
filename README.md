@@ -24,8 +24,7 @@ However, for Sagemaker Notebook, it is required to select the kernel manually in
 # Instruction on the AWS SageMaker
 <br>
 Please head to the https://drive.google.com/drive/folders/14LKnmDwWf1rxjUwgH--nPMgwAXOBhadR?usp=sharing
-Download the dataset "CatRabbit.zip"<br>
-<br>
+<br>Download the dataset "CatRabbit.zip"<br>
 Then launch a Amazon SageMaker Notebook, select a kernel with TensorFlow module<br>
 Due to the limitation of SageMaker notebook cannot upload directories, the directories need to be made manually.<br>
 <br>
@@ -51,6 +50,15 @@ The data source path may change due to the modification of directories locations
 
 ![image](https://user-images.githubusercontent.com/79595031/164978168-fac05a3c-1507-4ed9-97bf-7e90b1fda967.png)
 <br>
+After the set up, the environment should be looked like this:<br>
+![image](https://user-images.githubusercontent.com/79595031/164979162-ff2da8bb-4eff-455e-adeb-0cfc95cfb164.png)
+
+<br>In the data source file: <br>
+![image](https://user-images.githubusercontent.com/79595031/164979198-c4ba25d6-c80c-4e21-9c92-20f62282a2ba.png)
+
+<br>Both the train-cat-rabbit and val-cat-rabbit directories will contain the following sub-directories<br>
+![image](https://user-images.githubusercontent.com/79595031/164979261-0603d5df-dbfb-4115-bb0a-35e051f0ca9d.png)
+
 
 # Instruction on the Google Colab
 <br>
@@ -61,9 +69,9 @@ Download the dataset "CatRabbit.zip" and unzip the content in the zip file and u
 Then launch a Google Colab Notebook (default with TensorFlow module)<br>
 <br>
 Mount the google drive after enter the Colab environment<br>
-
 ![image](https://user-images.githubusercontent.com/79595031/164977802-7c5186cb-897a-4f8e-a449-cf74ce587447.png)
 
+<br>
 Verify the data Source is usable on the Google Drive.<br>
 Change the path according to your google drive setting. <br>
 The dataset need to be downloaded and mounted from google drive first <br>
