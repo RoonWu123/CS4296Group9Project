@@ -23,14 +23,14 @@ For train-cat-rabbit and val-cat-rabbit, create 2 directories named "cat" and "r
 The overall structure will be like: <br>
 root/<br>
 ├─ CatRabbit<br>
-│&nbsp;&nbsp;├─ test-images<br>
-│&nbsp;&nbsp;├─ train-cat-rabbit<br>
-│  │     ├─ cat<br>
-│  │     └─ rabbit<br>
-│  └─ val-cat-rabbit<br>
-│        ├─ cat<br>
-│        └─ rabbit<br>
-└─ CatRabbitCode.ipynb<br>
+│&nbsp;&nbsp;├─&nbsp;test-images<br>
+│&nbsp;&nbsp;├─&nbsp;train-cat-rabbit<br>
+│&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;cat<br>
+│&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;rabbit<br>
+│&nbsp;&nbsp;└─&nbsp;val-cat-rabbit<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;cat<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;rabbit<br>
+└─&nbsp;CatRabbitCode.ipynb<br>
 <br>
 Then unzip the file on you own local machine and upload the content (images) to directories respectively<br>
 <br>
